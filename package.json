@@ -1,0 +1,14 @@
+{
+	"name": "myGassiAdminPanel",
+	"description": "MyGassi.de Admin-Panel",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"couchbase": "git://github.com/pwaldhauer/couchnode.git#4cc49d35187ffd658a6ef6f067a9445a8a870efc",
+		"elastical": "x.x"
+	},
+	"engines": {
+		"node": "0.10.x",
+		"npm": "1.x"
+	}
+}
